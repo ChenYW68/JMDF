@@ -29,12 +29,12 @@ Influenza vaccines are essential for protecting against infection and disease, b
 <figure id="Figure3">
   <table align="center">
     <tr>
-      <td><img src="./figure/Fig2_1.jpg" width="300px"></td>
-      <td><img src="./figure/Fig2_2.jpg" width="300px"></td>
+      <td><img src="./figure/Fig2_1.jpg" width="500px"></td>
+      <td><img src="./figure/Fig2_2.jpg" width="500px"></td>
     </tr>
     <tr>
-      <td><img src="./figure/Fig2_3.jpg" width="300px"></td>
-      <td><img src="./figure/Fig2_4.jpg" width="300px"></td>
+      <td><img src="./figure/Fig2_3.jpg" width="500px"></td>
+      <td><img src="./figure/Fig2_4.jpg" width="500px"></td>
     </tr>
   </table>
   <figcaption align="center">
