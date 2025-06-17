@@ -9,9 +9,9 @@ Influenza vaccines are essential for protecting against infection and disease, b
 ## 
 <figure id="Figure1">
     <p align="center">
-  <img src="./figure/simFig1.jpg" width=50% height=50%>
+  <img src="./figure/simFig1.jpg" width=80% height=80%>
   </p>
   <figcaption>
-  <strong>Figure 1:</strong> Estimated smoothing functions using different numbers of grids in the RW2 approximation when $N = 1{,}000$.
+  <strong>Figure 1:</strong> Estimated smoothing functions using different numbers of knots in the RW2 approximation when $N = 1{,}000$.
   </figcaption>
 </figure>
