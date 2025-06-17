@@ -1,3 +1,8 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 # Joint Modeling and Dynamic Forecasting of Influenza Vaccine Response for Incomplete Longitudinal Data
 
 This Github page provides code for reproducing the results in the manuscript: Joint Modeling and Dynamic Forecasting of Influenza Vaccine Response for Incomplete Longitudinal Data.
