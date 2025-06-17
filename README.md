@@ -26,3 +26,12 @@ Influenza vaccines are essential for protecting against infection and disease, b
 </figure>
 
 ## Real data analysis
+<figure id="Figure2">
+    <p align="center">
+  <img src="./figure/Fig2_1.jpg" width=80% height=80%>
+  <img src="./figure/Fig2_2.jpg" width=80% height=80%>
+  </p>
+  <figcaption>
+  <strong>Figure 3:</strong> Recovered Gaussian Markov random fields between age and longitudinal pre-vaccination HAI titers.
+  </figcaption>
+</figure>
