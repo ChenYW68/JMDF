@@ -7,7 +7,7 @@ Influenza vaccines are essential for protecting against infection and disease, b
 
 
 ## Simulations
-The estimates of the nonlinear function closely match the true function and remain remarkably robust across several different choices of the number of knots used in the RW2 approximation, as shown in Figure \@ref(fig-simRW2). 
+The estimates of the nonlinear function closely match the true function and remain remarkably robust across several different choices of the number of knots used in the RW2 approximation, as shown in <a href="#Figure1">Figure 1</a>. 
 <figure id="Figure1">
   <table align="center">
     <tr>
