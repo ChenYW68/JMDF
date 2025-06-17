@@ -1,8 +1,3 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
 # Joint Modeling and Dynamic Forecasting of Influenza Vaccine Response for Incomplete Longitudinal Data
 
 This Github page provides code for reproducing the results in the manuscript: Joint Modeling and Dynamic Forecasting of Influenza Vaccine Response for Incomplete Longitudinal Data.
@@ -32,7 +27,7 @@ By comparing the four recovered maps (right panels of <a href="#Figure3">Figure 
   <img src="./figure/simFig2.jpg" width=60% height=80%>
   </p>
   <figcaption>
-  <strong>Figure 2:</strong> Maps of the random processes \(G_{0}, G_{1}, G_{2}\), and \(G_{3}\) from top to bottom. Left panels show the simulated Gaussian Markov random fields, and right panels show the corresponding recovered fields. The first row ($G_{0}$) is recovered based on a full sample size of N = 1500, while the remaining rows correspond to $G_{m}$ for m = 1, 2, 3, with available sample sizes of N = 964, 595, and 351, respectively, reflecting missingness patterns derived from the UGA cohort.
+  <strong>Figure 2:</strong> Maps of the random processes G<sub>0</sub>, G<sub>1</sub>, G<sub>2</sub>, and G<sub>3</sub> from top to bottom. Left panels show the simulated Gaussian Markov random fields, and right panels show the corresponding recovered fields. The first row (G<sub>0</sub>) is recovered based on a full sample size of N = 1500, while the remaining rows correspond to G<sub>m</sub> for m = 1, 2, 3, with available sample sizes of N = 964, 595, and 351, respectively, reflecting missingness patterns derived from the UGA cohort.
   </figcaption>
 </figure>
 
