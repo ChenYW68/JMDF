@@ -9,9 +9,9 @@ Influenza vaccines are essential for protecting against infection and disease, b
 ## 
 <figure id="Figure1">
     <p align="center">
-  <img src="./HDCMc/figure/Fig1.jpg" width=50% height=50%>
+  <img src="./figure/simFig1.jpg" width=50% height=50%>
   </p>
   <figcaption>
-  <strong>Figure 1:</strong> Maps of grid cells of the CMAQ and the NAQPMS. The symbols ``+'' represent the centroids of 16093 9km CMAQ grids. The symbols ``*'' denote the centroids of 6382 15km NAQPMS grids.
+  <strong>Figure 1:</strong> Estimated smoothing functions using different numbers of grids in the RW2 approximation when $N = 1{,}000$.
   </figcaption>
 </figure>
