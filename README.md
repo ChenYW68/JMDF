@@ -26,6 +26,7 @@ Influenza vaccines are essential for protecting against infection and disease, b
 </figure>
 
 ## Real data analysis using the UGA cohort
+The following maps characterize the interaction effects between age and historical longitudinal pre-vaccination HAI titers on future vaccination responses.
 <figure id="Figure3">
   <table align="center">
     <tr>
