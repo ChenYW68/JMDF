@@ -7,6 +7,7 @@ Influenza vaccines are essential for protecting against infection and disease, b
 
 
 ## Simulations
+The estimates of the nonlinear function closely match the true function and remain remarkably robust across several different choices of the number of knots used in the RW2 approximation. 
 <figure id="Figure1">
     <p align="center">
   <img src="./figure/simFig1.jpg" width=80% height=80%>
@@ -16,6 +17,7 @@ Influenza vaccines are essential for protecting against infection and disease, b
   </figcaption>
 </figure>
 
+By comparing the four recovered maps (right panels of Figure~\ref{fig:simGRMFs}) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
 <figure id="Figure2">
     <p align="center">
   <img src="./figure/simFig2.jpg" width=60% height=80%>
