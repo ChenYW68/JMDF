@@ -25,7 +25,7 @@ Influenza vaccines are essential for protecting against infection and disease, b
   </figcaption>
 </figure>
 
-## Real data analysis
+## Real data analysis using the UGA cohort
 <figure id="Figure3">
   <table align="center">
     <tr>
