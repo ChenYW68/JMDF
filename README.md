@@ -45,6 +45,6 @@ The following maps characterize the interaction effects between age and historic
     </tr>
   </table>
   <figcaption align="center">
-    <strong>Figure 3:</strong> Recovered Gaussian Markov random fields between age and longitudinal pre-vaccination HAI titers.
+    <strong>Figure 3:</strong> Recovered Gaussian Markov random fields between human age and longitudinal pre-vaccination HAI titers.
   </figcaption>
 </figure>
