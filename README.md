@@ -20,8 +20,8 @@ The estimates of the nonlinear function closely match the true function and rema
 </figure>
 
 
-
-By comparing the four recovered maps (right panels of Figure~\ref{fig:simGRMFs}) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
+<br><br>
+By comparing the four recovered maps (right panels of <a href="#Figure3">Figure 2</a>) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
 <figure id="Figure2">
     <p align="center">
   <img src="./figure/simFig2.jpg" width=60% height=80%>
