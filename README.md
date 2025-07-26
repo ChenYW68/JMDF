@@ -1,4 +1,4 @@
-# Joint Modeling and Dynamic Forecasting of Influenza Vaccine Response for Incomplete Longitudinal Data
+# Joint Modeling and Dynamic Forecasting of Influenza Vaccine Responses with Incomplete Longitudinal Data
 
 This Github page provides code for reproducing the results in the manuscript: Joint Modeling and Dynamic Forecasting of Influenza Vaccine Responses with Incomplete Longitudinal Data.
 
