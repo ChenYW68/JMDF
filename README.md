@@ -2,6 +2,8 @@
 
 This Github page provides code for reproducing the results in the manuscript: Joint Modeling and Dynamic Ensemble Forecasting of Influenza Vaccine Responses from Incomplete Longitudinal Data.
 
+## Practice implication
+The forecasts and simulations using advance statistics models can enhance our understanding of vaccine-induced immunity, aligning well with the goals of the [Computational Models of Immunity to Pertussis Booster Vaccinations (CMI-PB) Project](https://www.cmi-pb.org/blog/prediction-challenge-overview/).
 ## Summary
 Predictive modeling is pivotal for assessing vaccine-induced immune responses and tailoring vaccine formulations for high-risk populations ahead of peak infection periods.
 However, achieving reliable modeling and accurate prediction remains methodologically challenging, primarily due to incomplete longitudinal vaccine data and the complexity of underlying interaction relationships. This study introduces a joint modeling and dynamic forecasting (JMDF) approach to predict vaccine responses. JMDF provides four key advances: (1) adaptive use of non-missing longitudinal measurements as covariates without requiring imputation; (2) a novel application of Gaussian Markov random fields (GMRFs) to capture longitudinal interactions between demographic factors and vaccination-related measurements; (3) joint forecasting of responses to multiple vaccine subtypes while allowing them to share structured dependence; and (4) an efficient ensemble forecasting strategy that integrates sub-JMDF models. This work advances modern statistical modeling in public health, particularly in the area of vaccine response prediction and immune response simulation, with the potential to support personalized vaccination strategies.
