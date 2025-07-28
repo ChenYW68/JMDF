@@ -2,7 +2,7 @@
 
 This Github page provides code for reproducing the results in the manuscript: Joint Modeling and Dynamic Ensemble Forecasting of Influenza Vaccine Responses from Incomplete Longitudinal Data.
 
-## Practice implication
+## Real-world implications
 The forecasts and simulations using advance statistics models can enhance our understanding of vaccine-induced immunity, aligning well with the goals of the [Computational Models of Immunity to Pertussis Booster Vaccinations (CMI-PB) Project](https://www.cmi-pb.org/blog/prediction-challenge-overview/).
 ## Summary
 Predictive modeling is pivotal for assessing vaccine-induced immune responses and tailoring vaccine formulations for high-risk populations ahead of peak infection periods.
