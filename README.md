@@ -24,7 +24,7 @@ However, achieving reliable modeling and accurate prediction remains methodologi
 -->
 
 <br><br>
-By comparing the four recovered maps (right panels of <a href="#Figure1">Figure 2</a>) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
+By comparing the four recovered maps (right panels of <a href="#Figure1">Figure 1</a>) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
 <figure id="Figure1">
     <p align="center">
   <img src="./figure/simFig2.jpg" width="600px">
