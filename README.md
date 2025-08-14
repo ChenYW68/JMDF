@@ -10,7 +10,7 @@ However, achieving reliable modeling and accurate prediction remains methodologi
 
 
 ## Simulations
-The estimates of the nonlinear function closely match the true function and remain remarkably robust across several different choices of the number of knots used in the RW2 approximation, as shown in <a href="#Figure3">Figure 1</a>. 
+<!-- The estimates of the nonlinear function closely match the true function and remain remarkably robust across several different choices of the number of knots used in the RW2 approximation, as shown in <a href="#Figure3">Figure 1</a>. 
 <figure id="Figure1">
   <table align="center">
     <tr>
@@ -21,7 +21,7 @@ The estimates of the nonlinear function closely match the true function and rema
     <strong>Figure 1:</strong> Estimated smoothing functions using different numbers of knots in the RW2 approximation when N = 1,500.
   </figcaption>
 </figure>
-
+-->
 
 <br><br>
 By comparing the four recovered maps (right panels of <a href="#Figure3">Figure 2</a>) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
