@@ -36,7 +36,7 @@ To understand vaccine-induced immunity, an ongoing human influenza vaccine cohor
 By comparing the four recovered maps (right panels of <a href="#Figure2">Figure 2</a>) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
 <figure id="Figure2">
     <p align="center">
-  <img src="./figure/Fig3.jpg" width="600px">
+  <img src="./figure/Fig3.jpg" width="1000px">
   </p>
   <figcaption>
  <strong>Figure 2:</strong> Two-dimensional surfaces. The four panels from left to right show the true smooth surface g(x, z) = sin(0.1x) cos(0.1z) + 0.001xz, and its approximations using the recovered GMRF G<sub>0</sub from  JMDF-GMRF<sub>m</sub> for m = 1, 2, 3.
