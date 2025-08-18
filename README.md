@@ -47,7 +47,7 @@ Methods consistently reveal similar nonlinear associations between BMI and vacci
 </figure>
 
 <br><br>
-The following maps characterize the interaction effects between age and historical longitudinal pre-vaccination HAI titers on future vaccination responses.
+The following maps characterize the interaction effects between human age and historical longitudinal pre-vaccination HAI titers on future vaccination responses.
 <figure id="Figure3">
   <table align="center">
     <tr>
