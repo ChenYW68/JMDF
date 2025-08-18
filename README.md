@@ -42,7 +42,7 @@ Furthermore, JMDF-GMRF successfully recovers complex interaction patterns, wheth
   </tr>
   </table>
    <figcaption align="center">
- <strong>Figure 2:</strong> Two-dimensional surfaces. The four panels from left to right show the true smooth surface g(x, z) = sin(0.1x) cos(0.1z) + 0.001xz, and its approximations using the GMRF G<sub>0</sub recovered from different JMDF-GMRF models.
+ <strong>Figure 2:</strong> Two-dimensional surfaces. The four panels from left to right show the true smooth surface g(x, z) = sin(0.1x) cos(0.1z) + 0.001xz, and its approximations using the proposed different JMDF-GMRF models.
   </figcaption>
 </figure>
 
