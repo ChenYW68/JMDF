@@ -8,7 +8,7 @@ The forecasts and simulations using advance statistics models can enhance our un
 Longitudinal measurement trajectories have become increasingly valuable for deepening our predictive understanding of vaccine-induced immunity. However, the complexity of immune interaction patterns inherent in these trajectories, along with their incompleteness and high heterogeneity, introduces significant methodological challenges for predictive modeling. To address these challenges, we introduce the Joint Modeling and Dynamic Forecasting (JMDF) framework to enhance vaccine response prediction. JMDF provides four key advances: (1) adaptive use of non-missing longitudinal measurements as covariates without requiring imputation; (2) a novel application of Gaussian Markov random fields (GMRFs) to capture longitudinal interactions between demographic factors and vaccination-related measurements; (3) joint forecasting of responses to multiple vaccine subtypes while allowing them to share structured dependence; and (4) an efficient ensemble forecasting strategy that integrates sub-JMDF models. This work advances modern statistical modeling in public health, particularly in the area of vaccine response prediction and immune response simulation, with the potential to support personalized vaccination strategies.
 
 ## Data from the human influenza vaccine cohort study
-To understand vaccine-induced immunity, an ongoing human influenza vaccine cohort study is being conducted. The cohort was initiated in 2013 at two sites: one in Florida (FL) and the other in Pennsylvania (PA). Since 2016, the study has been primarily conducted at the [University of Georgia (UGA) in Athens, Georgia, United States](https://cider.uga.edu/about-cider). Data were illustrated in <a href="#Figure1">Figure 1</a>
+To understand vaccine-induced immunity, an ongoing human influenza vaccine cohort study is being conducted. The cohort was initiated in 2013 at two sites: one in Florida (FL) and the other in Pennsylvania (PA). Since 2016, the study has been primarily conducted at the [University of Georgia (UGA) in Athens, Georgia, United States](https://cider.uga.edu/about-cider). Data were illustrated in <a href="#Figure1">Figure 1</a>.
 <figure id="Figure1">
   <table align="center">
     <tr>
@@ -16,7 +16,7 @@ To understand vaccine-induced immunity, an ongoing human influenza vaccine cohor
     </tr>
   </table>
   <figcaption align="center">
-    <strong>Figure 1:</strong> Incomplete longitudinal trajectories of pre- and post-vaccination HAI titers collected from 30 randomly selected participants over eleven years..
+    <strong>Figure 1:</strong> Incomplete longitudinal trajectories of pre- and post-vaccination HAI titers collected from 30 randomly selected participants over eleven years.
   </figcaption>
 </figure>
 
