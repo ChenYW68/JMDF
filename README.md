@@ -37,19 +37,32 @@ By comparing the four recovered maps (right panels of <a href="#Figure1">Figure 
 </figure>
 
 ## Real data analysis using the UGA cohort
+
+Methods consistently reveal similar nonlinear associations between BMI and vaccination responses, showing positive effects at both low and high BMI levels, as shown in <a href="#Figure2">Figure 1</a>. 
+<figure id="Figure2">
+  <table align="center">
+    <tr>
+      <td><img src="./figure/fz.jpg" width="800px"></td>
+    </tr>
+  </table>
+  <figcaption align="center">
+    <strong>Figure 2:</strong> Estimated nonlinear functions with respect to BMI, along with 95% credible intervals via PLM and JMDF-GMRF.
+  </figcaption>
+</figure>
+
 The following maps characterize the interaction effects between age and historical longitudinal pre-vaccination HAI titers on future vaccination responses.
 <figure id="Figure3">
   <table align="center">
     <tr>
-      <td><img src="./figure/Fig2_1.jpg" width="500px"></td>
-      <td><img src="./figure/Fig2_2.jpg" width="500px"></td>
+      <td><img src="./figure/Fig5_1.jpg" width="500px"></td>
+      <td><img src="./figure/Fig5_2.jpg" width="500px"></td>
     </tr>
     <tr>
-      <td><img src="./figure/Fig2_3.jpg" width="500px"></td>
-      <td><img src="./figure/Fig2_4.jpg" width="500px"></td>
+      <td><img src="./figure/Fig5_3.jpg" width="500px"></td>
+      <td><img src="./figure/Fig5_4.jpg" width="500px"></td>
     </tr>
   </table>
   <figcaption align="center">
-    <strong>Figure 2:</strong> Recovered Gaussian Markov random fields between human age and longitudinal pre-vaccination HAI titers.
+    <strong>Figure 3:</strong> Recovered Gaussian Markov random fields between human age and longitudinal pre-vaccination HAI titers.
   </figcaption>
 </figure>
