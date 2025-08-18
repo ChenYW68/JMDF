@@ -5,7 +5,7 @@ This Github page provides code and data for reproducing the results in the manus
 ## Real-world implications
 The forecasts and simulations using advance statistics models can enhance our understanding of vaccine-induced immunity, aligning well with the goals of the [Computational Models of Immunity to Pertussis Booster Vaccinations (CMI-PB) Project](https://www.cmi-pb.org/blog/prediction-challenge-overview/).
 ## Summary
-Longitudinal measurement trajectories have become increasingly valuable for deepening our predictive understanding of vaccine-induced immunity. However, the complexity of immune interaction patterns inherent in these trajectories, along with their incompleteness and high heterogeneity, introduces significant methodological challenges for predictive modeling. To address these challenges, we introduce the Joint Modeling and Dynamic Forecasting (JMDF) framework to enhance vaccine response prediction. JMDF provides four key advances: 
+Longitudinal measurement trajectories have become increasingly valuable for deepening our predictive understanding of vaccine-induced immunity. However, the complexity of immune interaction patterns inherent in these trajectories, along with their incompleteness and high heterogeneity, introduces significant methodological challenges for predictive modeling. To address these challenges, we introduce both parametric and nonparametric Joint Modeling and Dynamic Forecasting (JMDF) frameworks to enhance vaccine response prediction. JMDF provides four key advances: 
 - Adaptive use of non-missing longitudinal measurements as covariates without requiring imputation;
 - A novel application of Gaussian Markov random fields (GMRFs) to  enable information sharing across individuals, thereby achieving efficient modeling and interpretation of complex interactions; 
 - Joint forecasting of responses to multiple vaccine subtypes while allowing deep within-individual dependencies across viral subtypes; and 
@@ -61,7 +61,7 @@ Methods consistently reveal similar nonlinear associations between BMI and vacci
     </tr>
   </table>
   <figcaption align="center">
-    <strong>Figure 3:</strong> Estimated nonlinear functions with respect to BMI, along with 95% credible intervals via PLM and JMDF-GMRF.
+    <strong>Figure 3:</strong> Estimated nonlinear functions with respect to BMI, along with 95% credible intervals via JMDF-LR and JMDF-GMRF.
   </figcaption>
 </figure>
 
