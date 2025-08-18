@@ -37,7 +37,6 @@ By comparing the four recovered maps (right panels of <a href="#Figure1">Figure 
 </figure>
 
 ## Real data analysis using the UGA cohort
-
 Methods consistently reveal similar nonlinear associations between BMI and vaccination responses, showing positive effects at both low and high BMI levels, as shown in <a href="#Figure2">Figure 1</a>. 
 <figure id="Figure2">
   <table align="center">
