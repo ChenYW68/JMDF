@@ -33,7 +33,8 @@ To understand vaccine-induced immunity, an ongoing human influenza vaccine cohor
   </figcaption>
 </figure>
 -->
-By comparing the four recovered maps (right panels of <a href="#Figure2">Figure 2</a>) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
+
+Furthermore, JMDF-GMRF successfully recovers complex interaction patterns, whether generated from smoothing functions (<a href="#Figure2">Figure 2</a>) or simulated from Matérn fields.
 <figure id="Figure2">
     <p align="center">
   <img src="./figure/Fig3.jpg" width="1000px">
