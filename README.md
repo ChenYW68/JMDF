@@ -36,10 +36,12 @@ To understand vaccine-induced immunity, an ongoing human influenza vaccine cohor
 
 Furthermore, JMDF-GMRF successfully recovers complex interaction patterns, whether generated from smoothing functions (<a href="#Figure2">Figure 2</a>) or simulated from Matérn fields.
 <figure id="Figure2">
-    <p align="center">
- <td> <img src="./figure/Fig3.jpg" width="1000px"></td>
-  </p>
-  <figcaption>
+ <table align="center">
+    <tr>
+     <td> <img src="./figure/Fig3.jpg" width="800px"></td>
+  </tr>
+  </table>
+   <figcaption align="center">
  <strong>Figure 2:</strong> Two-dimensional surfaces. The four panels from left to right show the true smooth surface g(x, z) = sin(0.1x) cos(0.1z) + 0.001xz, and its approximations using the GMRF G<sub>0</sub recovered from different JMDF-GMRF models.
   </figcaption>
 </figure>
