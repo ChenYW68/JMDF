@@ -33,7 +33,7 @@ To understand vaccine-induced immunity, an ongoing human influenza vaccine cohor
   </figcaption>
 </figure>
 -->
-By comparing the four recovered maps (right panels of <a href="#Figure2">Figure 1</a>) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
+By comparing the four recovered maps (right panels of <a href="#Figure2">Figure 2</a>) with the corresponding true GPs (left panels), the JMDF model accurately identifies each of the latent processes.
 <figure id="Figure2">
     <p align="center">
   <img src="./figure/Fig3.jpg" width="600px">
@@ -44,7 +44,7 @@ By comparing the four recovered maps (right panels of <a href="#Figure2">Figure 
 </figure>
 
 ## Real data analysis using the UGA cohort
-Methods consistently reveal similar nonlinear associations between BMI and vaccination responses, showing positive effects at both low and high BMI levels, as shown in <a href="#Figure3">Figure 1</a>. 
+Methods consistently reveal similar nonlinear associations between BMI and vaccination responses, showing positive effects at both low and high BMI levels, as shown in <a href="#Figure3">Figure 3</a>. 
 <figure id="Figure3">
   <table align="center">
     <tr>
