@@ -1,6 +1,6 @@
 # Joint Modeling and Dynamic Ensemble Forecasting of Influenza Vaccine Responses from Complex Longitudinal Trajectories
 
-This Github page provides code and data for reproducing the results in the manuscript: Joint Modeling and Dynamic Ensemble Forecasting of Influenza Vaccine Responses from Complex Longitudinal Trajectories by Y. Chen, Y. Zhang, and Y. Shen.
+This Github page provides code and data for reproducing the results in the manuscript: ``Joint Modeling and Dynamic Ensemble Forecasting of Influenza Vaccine Responses from Complex Longitudinal Trajectories'' by Y. Chen, Y. Zhang, and Y. Shen.
 
 ## Real-world implications
 The forecasts and simulations using advance statistics models can enhance our understanding of vaccine-induced immunity, aligning well with the goals of the [Computational Models of Immunity to Pertussis Booster Vaccinations (CMI-PB) Project](https://www.cmi-pb.org/blog/prediction-challenge-overview/).
