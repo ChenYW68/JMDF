@@ -10,8 +10,8 @@ library(readxl)
 library(data.table)
 load("./data/Model/all.inluenza.cohort.RData")
 inla_df <- all.inluenza.cohort %>%
-  filter(strain_type != "Yamagata"
-         , season_start >= 2016
+  filter(strain_type == "Yamagata"
+         # , season_start >= 2016
          # , study == "UGA"
   )
 
